@@ -15,7 +15,7 @@ School of Information Management, Wuhan University
 
 Email: zhuozhu.liu@hdr.mq.edu or liuzhuozhu@whu.edu.cn 
 
-I am a 2st year Ph.D. student at the School of Computing, Macquarie University. My pricipal supervisor is Dr. <a href="http://web.science.mq.edu.au/~jiawu/">Jia Wu</a> and my associate supervisor is Prof. <a href="http://web.science.mq.edu.au/~jian/">Jian Yang</a>. My research mainly focus on scientometrics and data mining.
+I am a 2nd year Ph.D. student at the School of Computing, Macquarie University. My pricipal supervisor is Dr. <a href="http://web.science.mq.edu.au/~jiawu/">Jia Wu</a> and my associate supervisor is Prof. <a href="http://web.science.mq.edu.au/~jian/">Jian Yang</a>. My research mainly focus on scientometrics and data mining.
 
 ## <font color=deepskyblue> Education Background</font>
 
