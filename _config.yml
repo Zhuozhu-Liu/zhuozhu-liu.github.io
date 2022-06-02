@@ -1,0 +1,11 @@
+theme: jekyll-theme-minimal
+
+gem "github-pages", group: :jekyll_plugins
+
+title: Zhuozhu Liu's Homepage
+
+description: Welcome to my personal homepage!
+
+logo: liu.png
+
+show_downloads: false
