@@ -7,7 +7,7 @@
 -->
 
 ## Zhuozhu Liu
-### Ph.D. Candidate at Wuhan University and Macquarie University
+### Ph.D. Candidate at Macquarie University and Wuhan University
 
 School of Computing, Macquarie University
 
